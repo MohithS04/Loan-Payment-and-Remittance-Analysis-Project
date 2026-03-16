@@ -1,0 +1,161 @@
+error_id,error_type,dataset,record_id,description
+1,DUPLICATE_PAYMENT,loan_payments,LN-001407,Duplicate entry for LN-001407 on 2026-02-13
+2,DUPLICATE_PAYMENT,loan_payments,LN-000298,Duplicate entry for LN-000298 on 2025-10-06
+3,DUPLICATE_PAYMENT,loan_payments,LN-001277,Duplicate entry for LN-001277 on 2025-07-21
+4,DUPLICATE_PAYMENT,loan_payments,LN-002369,Duplicate entry for LN-002369 on 2025-08-22
+5,DUPLICATE_PAYMENT,loan_payments,LN-000439,Duplicate entry for LN-000439 on 2026-01-07
+6,DUPLICATE_PAYMENT,loan_payments,LN-002010,Duplicate entry for LN-002010 on 2025-11-04
+7,DUPLICATE_PAYMENT,loan_payments,LN-000643,Duplicate entry for LN-000643 on 2025-11-18
+8,DUPLICATE_PAYMENT,loan_payments,LN-000656,Duplicate entry for LN-000656 on 2025-05-24
+9,DUPLICATE_PAYMENT,loan_payments,LN-001194,Duplicate entry for LN-001194 on 2025-06-02
+10,DUPLICATE_PAYMENT,loan_payments,LN-002411,Duplicate entry for LN-002411 on 2025-09-16
+11,DUPLICATE_PAYMENT,loan_payments,LN-000899,Duplicate entry for LN-000899 on 2025-06-22
+12,DUPLICATE_PAYMENT,loan_payments,LN-000469,Duplicate entry for LN-000469 on 2025-07-29
+13,DUPLICATE_PAYMENT,loan_payments,LN-000608,Duplicate entry for LN-000608 on 2026-03-02
+14,DUPLICATE_PAYMENT,loan_payments,LN-002500,Duplicate entry for LN-002500 on 2025-03-24
+15,DUPLICATE_PAYMENT,loan_payments,LN-002263,Duplicate entry for LN-002263 on 2025-06-16
+16,DUPLICATE_PAYMENT,loan_payments,LN-000590,Duplicate entry for LN-000590 on 2025-03-27
+17,DUPLICATE_PAYMENT,loan_payments,LN-000108,Duplicate entry for LN-000108 on 2025-07-01
+18,DUPLICATE_PAYMENT,loan_payments,LN-000536,Duplicate entry for LN-000536 on 2025-08-15
+19,DUPLICATE_PAYMENT,loan_payments,LN-001550,Duplicate entry for LN-001550 on 2025-06-01
+20,DUPLICATE_PAYMENT,loan_payments,LN-001266,Duplicate entry for LN-001266 on 2026-02-24
+21,DUPLICATE_PAYMENT,loan_payments,LN-001577,Duplicate entry for LN-001577 on 2025-09-11
+22,DUPLICATE_PAYMENT,loan_payments,LN-000768,Duplicate entry for LN-000768 on 2026-01-03
+23,DUPLICATE_PAYMENT,loan_payments,LN-002057,Duplicate entry for LN-002057 on 2025-05-07
+24,DUPLICATE_PAYMENT,loan_payments,LN-000704,Duplicate entry for LN-000704 on 2026-01-27
+25,DUPLICATE_PAYMENT,loan_payments,LN-002298,Duplicate entry for LN-002298 on 2025-06-10
+26,AMOUNT_MISMATCH,remittance_records,REM-002122,Remittance amount differs from payment for LN-001732
+27,AMOUNT_MISMATCH,remittance_records,REM-000961,Remittance amount differs from payment for LN-000356
+28,AMOUNT_MISMATCH,remittance_records,REM-000953,Remittance amount differs from payment for LN-002350
+29,AMOUNT_MISMATCH,remittance_records,REM-001959,Remittance amount differs from payment for LN-001424
+30,AMOUNT_MISMATCH,remittance_records,REM-000682,Remittance amount differs from payment for LN-002129
+31,AMOUNT_MISMATCH,remittance_records,REM-002177,Remittance amount differs from payment for LN-001344
+32,AMOUNT_MISMATCH,remittance_records,REM-001365,Remittance amount differs from payment for LN-001592
+33,AMOUNT_MISMATCH,remittance_records,REM-001892,Remittance amount differs from payment for LN-000483
+34,AMOUNT_MISMATCH,remittance_records,REM-000457,Remittance amount differs from payment for LN-002240
+35,AMOUNT_MISMATCH,remittance_records,REM-001153,Remittance amount differs from payment for LN-000187
+36,AMOUNT_MISMATCH,remittance_records,REM-000216,Remittance amount differs from payment for LN-001439
+37,AMOUNT_MISMATCH,remittance_records,REM-002031,Remittance amount differs from payment for LN-001961
+38,AMOUNT_MISMATCH,remittance_records,REM-001721,Remittance amount differs from payment for LN-001036
+39,AMOUNT_MISMATCH,remittance_records,REM-000516,Remittance amount differs from payment for LN-001520
+40,AMOUNT_MISMATCH,remittance_records,REM-001182,Remittance amount differs from payment for LN-000131
+41,AMOUNT_MISMATCH,remittance_records,REM-000138,Remittance amount differs from payment for LN-001355
+42,AMOUNT_MISMATCH,remittance_records,REM-001645,Remittance amount differs from payment for LN-000530
+43,AMOUNT_MISMATCH,remittance_records,REM-000791,Remittance amount differs from payment for LN-000877
+44,AMOUNT_MISMATCH,remittance_records,REM-001925,Remittance amount differs from payment for LN-001377
+45,AMOUNT_MISMATCH,remittance_records,REM-001686,Remittance amount differs from payment for LN-001281
+46,AMOUNT_MISMATCH,remittance_records,REM-001062,Remittance amount differs from payment for LN-002491
+47,AMOUNT_MISMATCH,remittance_records,REM-000309,Remittance amount differs from payment for LN-001759
+48,AMOUNT_MISMATCH,remittance_records,REM-001455,Remittance amount differs from payment for LN-002001
+49,AMOUNT_MISMATCH,remittance_records,REM-001020,Remittance amount differs from payment for LN-001087
+50,AMOUNT_MISMATCH,remittance_records,REM-001134,Remittance amount differs from payment for LN-000610
+51,AMOUNT_MISMATCH,remittance_records,REM-000356,Remittance amount differs from payment for LN-001220
+52,AMOUNT_MISMATCH,remittance_records,REM-001834,Remittance amount differs from payment for LN-000141
+53,AMOUNT_MISMATCH,remittance_records,REM-001865,Remittance amount differs from payment for LN-001196
+54,AMOUNT_MISMATCH,remittance_records,REM-002098,Remittance amount differs from payment for LN-002294
+55,AMOUNT_MISMATCH,remittance_records,REM-000628,Remittance amount differs from payment for LN-002001
+56,MISSING_REMITTANCE,remittance_records,LN-002199,Posted payment LN-002199 has no remittance after removal
+57,MISSING_REMITTANCE,remittance_records,LN-000878,Posted payment LN-000878 has no remittance after removal
+58,MISSING_REMITTANCE,remittance_records,LN-000420,Posted payment LN-000420 has no remittance after removal
+59,MISSING_REMITTANCE,remittance_records,LN-002430,Posted payment LN-002430 has no remittance after removal
+60,MISSING_REMITTANCE,remittance_records,LN-001600,Posted payment LN-001600 has no remittance after removal
+61,MISSING_REMITTANCE,remittance_records,LN-001985,Posted payment LN-001985 has no remittance after removal
+62,MISSING_REMITTANCE,remittance_records,LN-001372,Posted payment LN-001372 has no remittance after removal
+63,MISSING_REMITTANCE,remittance_records,LN-002467,Posted payment LN-002467 has no remittance after removal
+64,MISSING_REMITTANCE,remittance_records,LN-001811,Posted payment LN-001811 has no remittance after removal
+65,MISSING_REMITTANCE,remittance_records,LN-001527,Posted payment LN-001527 has no remittance after removal
+66,MISSING_REMITTANCE,remittance_records,LN-002080,Posted payment LN-002080 has no remittance after removal
+67,MISSING_REMITTANCE,remittance_records,LN-001926,Posted payment LN-001926 has no remittance after removal
+68,MISSING_REMITTANCE,remittance_records,LN-001912,Posted payment LN-001912 has no remittance after removal
+69,MISSING_REMITTANCE,remittance_records,LN-000321,Posted payment LN-000321 has no remittance after removal
+70,MISSING_REMITTANCE,remittance_records,LN-001854,Posted payment LN-001854 has no remittance after removal
+71,MISSING_REMITTANCE,remittance_records,LN-001505,Posted payment LN-001505 has no remittance after removal
+72,MISSING_REMITTANCE,remittance_records,LN-002394,Posted payment LN-002394 has no remittance after removal
+73,MISSING_REMITTANCE,remittance_records,LN-000035,Posted payment LN-000035 has no remittance after removal
+74,MISSING_REMITTANCE,remittance_records,LN-001123,Posted payment LN-001123 has no remittance after removal
+75,MISSING_REMITTANCE,remittance_records,LN-001561,Posted payment LN-001561 has no remittance after removal
+76,MISSING_REMITTANCE,remittance_records,LN-001409,Posted payment LN-001409 has no remittance after removal
+77,MISSING_REMITTANCE,remittance_records,LN-002425,Posted payment LN-002425 has no remittance after removal
+78,MISSING_REMITTANCE,remittance_records,LN-002453,Posted payment LN-002453 has no remittance after removal
+79,MISSING_REMITTANCE,remittance_records,LN-000767,Posted payment LN-000767 has no remittance after removal
+80,MISSING_REMITTANCE,remittance_records,LN-001994,Posted payment LN-001994 has no remittance after removal
+81,REVERSED_STILL_ACTIVE,both,LN-000123,Reversed payment LN-000123 still has active remittance
+82,REVERSED_STILL_ACTIVE,both,LN-000936,Reversed payment LN-000936 still has active remittance
+83,REVERSED_STILL_ACTIVE,both,LN-000496,Reversed payment LN-000496 still has active remittance
+84,REVERSED_STILL_ACTIVE,both,LN-000077,Reversed payment LN-000077 still has active remittance
+85,REVERSED_STILL_ACTIVE,both,LN-001803,Reversed payment LN-001803 still has active remittance
+86,REVERSED_STILL_ACTIVE,both,LN-000283,Reversed payment LN-000283 still has active remittance
+87,REVERSED_STILL_ACTIVE,both,LN-000487,Reversed payment LN-000487 still has active remittance
+88,REVERSED_STILL_ACTIVE,both,LN-000613,Reversed payment LN-000613 still has active remittance
+89,REVERSED_STILL_ACTIVE,both,LN-000635,Reversed payment LN-000635 still has active remittance
+90,REVERSED_STILL_ACTIVE,both,LN-000499,Reversed payment LN-000499 still has active remittance
+91,REVERSED_STILL_ACTIVE,both,LN-001693,Reversed payment LN-001693 still has active remittance
+92,REVERSED_STILL_ACTIVE,both,LN-000636,Reversed payment LN-000636 still has active remittance
+93,REVERSED_STILL_ACTIVE,both,LN-001262,Reversed payment LN-001262 still has active remittance
+94,REVERSED_STILL_ACTIVE,both,LN-000773,Reversed payment LN-000773 still has active remittance
+95,REVERSED_STILL_ACTIVE,both,LN-001346,Reversed payment LN-001346 still has active remittance
+96,REVERSED_STILL_ACTIVE,both,LN-001451,Reversed payment LN-001451 still has active remittance
+97,REVERSED_STILL_ACTIVE,both,LN-000359,Reversed payment LN-000359 still has active remittance
+98,REVERSED_STILL_ACTIVE,both,LN-002363,Reversed payment LN-002363 still has active remittance
+99,REVERSED_STILL_ACTIVE,both,LN-000741,Reversed payment LN-000741 still has active remittance
+100,REVERSED_STILL_ACTIVE,both,LN-000479,Reversed payment LN-000479 still has active remittance
+101,COUPON_OUTLIER,collateral_schedule,SEC-0052,Coupon payment for SEC-0052 deviates >2% from expected
+102,COUPON_OUTLIER,collateral_schedule,SEC-0028,Coupon payment for SEC-0028 deviates >2% from expected
+103,COUPON_OUTLIER,collateral_schedule,SEC-0089,Coupon payment for SEC-0089 deviates >2% from expected
+104,COUPON_OUTLIER,collateral_schedule,SEC-0033,Coupon payment for SEC-0033 deviates >2% from expected
+105,COUPON_OUTLIER,collateral_schedule,SEC-0018,Coupon payment for SEC-0018 deviates >2% from expected
+106,COUPON_OUTLIER,collateral_schedule,SEC-0070,Coupon payment for SEC-0070 deviates >2% from expected
+107,COUPON_OUTLIER,collateral_schedule,SEC-0092,Coupon payment for SEC-0092 deviates >2% from expected
+108,COUPON_OUTLIER,collateral_schedule,SEC-0090,Coupon payment for SEC-0090 deviates >2% from expected
+109,COUPON_OUTLIER,collateral_schedule,SEC-0044,Coupon payment for SEC-0044 deviates >2% from expected
+110,COUPON_OUTLIER,collateral_schedule,SEC-0092,Coupon payment for SEC-0092 deviates >2% from expected
+111,COUPON_OUTLIER,collateral_schedule,SEC-0037,Coupon payment for SEC-0037 deviates >2% from expected
+112,COUPON_OUTLIER,collateral_schedule,SEC-0057,Coupon payment for SEC-0057 deviates >2% from expected
+113,COUPON_OUTLIER,collateral_schedule,SEC-0057,Coupon payment for SEC-0057 deviates >2% from expected
+114,COUPON_OUTLIER,collateral_schedule,SEC-0069,Coupon payment for SEC-0069 deviates >2% from expected
+115,COUPON_OUTLIER,collateral_schedule,SEC-0067,Coupon payment for SEC-0067 deviates >2% from expected
+116,COUPON_OUTLIER,collateral_schedule,SEC-0061,Coupon payment for SEC-0061 deviates >2% from expected
+117,COUPON_OUTLIER,collateral_schedule,SEC-0039,Coupon payment for SEC-0039 deviates >2% from expected
+118,COUPON_OUTLIER,collateral_schedule,SEC-0093,Coupon payment for SEC-0093 deviates >2% from expected
+119,COUPON_OUTLIER,collateral_schedule,SEC-0022,Coupon payment for SEC-0022 deviates >2% from expected
+120,COUPON_OUTLIER,collateral_schedule,SEC-0034,Coupon payment for SEC-0034 deviates >2% from expected
+121,COUPON_OUTLIER,collateral_schedule,SEC-0098,Coupon payment for SEC-0098 deviates >2% from expected
+122,COUPON_OUTLIER,collateral_schedule,SEC-0012,Coupon payment for SEC-0012 deviates >2% from expected
+123,COUPON_OUTLIER,collateral_schedule,SEC-0017,Coupon payment for SEC-0017 deviates >2% from expected
+124,COUPON_OUTLIER,collateral_schedule,SEC-0090,Coupon payment for SEC-0090 deviates >2% from expected
+125,COUPON_OUTLIER,collateral_schedule,SEC-0064,Coupon payment for SEC-0064 deviates >2% from expected
+126,COUPON_OUTLIER,collateral_schedule,SEC-0048,Coupon payment for SEC-0048 deviates >2% from expected
+127,COUPON_OUTLIER,collateral_schedule,SEC-0050,Coupon payment for SEC-0050 deviates >2% from expected
+128,COUPON_OUTLIER,collateral_schedule,SEC-0069,Coupon payment for SEC-0069 deviates >2% from expected
+129,COUPON_OUTLIER,collateral_schedule,SEC-0011,Coupon payment for SEC-0011 deviates >2% from expected
+130,COUPON_OUTLIER,collateral_schedule,SEC-0014,Coupon payment for SEC-0014 deviates >2% from expected
+131,NON_BUSINESS_DAY,loan_payments,LN-000118,Payment LN-000118 posted on non-business day 2025-08-02
+132,NON_BUSINESS_DAY,loan_payments,LN-000074,Payment LN-000074 posted on non-business day 2026-02-07
+133,NON_BUSINESS_DAY,loan_payments,LN-000106,Payment LN-000106 posted on non-business day 2025-08-02
+134,NON_BUSINESS_DAY,loan_payments,LN-000096,Payment LN-000096 posted on non-business day 2026-03-07
+135,NON_BUSINESS_DAY,loan_payments,LN-000041,Payment LN-000041 posted on non-business day 2025-05-10
+136,NON_BUSINESS_DAY,loan_payments,LN-000091,Payment LN-000091 posted on non-business day 2025-06-07
+137,NON_BUSINESS_DAY,loan_payments,LN-000122,Payment LN-000122 posted on non-business day 2025-12-20
+138,NON_BUSINESS_DAY,loan_payments,LN-000039,Payment LN-000039 posted on non-business day 2025-07-05
+139,NON_BUSINESS_DAY,loan_payments,LN-000055,Payment LN-000055 posted on non-business day 2025-12-27
+140,NON_BUSINESS_DAY,loan_payments,LN-000010,Payment LN-000010 posted on non-business day 2025-12-20
+141,NON_BUSINESS_DAY,loan_payments,LN-000037,Payment LN-000037 posted on non-business day 2025-08-09
+142,NON_BUSINESS_DAY,loan_payments,LN-000024,Payment LN-000024 posted on non-business day 2026-02-14
+143,NON_BUSINESS_DAY,loan_payments,LN-000031,Payment LN-000031 posted on non-business day 2025-08-09
+144,NON_BUSINESS_DAY,loan_payments,LN-000092,Payment LN-000092 posted on non-business day 2025-11-08
+145,NON_BUSINESS_DAY,loan_payments,LN-000095,Payment LN-000095 posted on non-business day 2026-02-07
+146,NON_BUSINESS_DAY,loan_payments,LN-000035,Payment LN-000035 posted on non-business day 2025-10-18
+147,NON_BUSINESS_DAY,loan_payments,LN-000032,Payment LN-000032 posted on non-business day 2025-03-22
+148,NON_BUSINESS_DAY,loan_payments,LN-000009,Payment LN-000009 posted on non-business day 2026-02-28
+149,NON_BUSINESS_DAY,loan_payments,LN-000126,Payment LN-000126 posted on non-business day 2026-01-10
+150,NON_BUSINESS_DAY,loan_payments,LN-000138,Payment LN-000138 posted on non-business day 2025-06-07
+151,NON_BUSINESS_DAY,loan_payments,LN-000056,Payment LN-000056 posted on non-business day 2025-08-16
+152,NON_BUSINESS_DAY,loan_payments,LN-000125,Payment LN-000125 posted on non-business day 2025-10-25
+153,NON_BUSINESS_DAY,loan_payments,LN-000086,Payment LN-000086 posted on non-business day 2026-01-24
+154,NON_BUSINESS_DAY,loan_payments,LN-000050,Payment LN-000050 posted on non-business day 2025-11-08
+155,NON_BUSINESS_DAY,loan_payments,LN-000068,Payment LN-000068 posted on non-business day 2025-04-26
+156,NON_BUSINESS_DAY,loan_payments,LN-000090,Payment LN-000090 posted on non-business day 2025-07-19
+157,NON_BUSINESS_DAY,loan_payments,LN-000109,Payment LN-000109 posted on non-business day 2026-01-03
+158,NON_BUSINESS_DAY,loan_payments,LN-000108,Payment LN-000108 posted on non-business day 2025-07-05
+159,NON_BUSINESS_DAY,loan_payments,LN-000075,Payment LN-000075 posted on non-business day 2025-09-20
+160,NON_BUSINESS_DAY,loan_payments,LN-000006,Payment LN-000006 posted on non-business day 2025-07-12
